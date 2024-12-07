@@ -12,13 +12,6 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class HelloController {
-/*
-    @FXML
-    protected void onStartButtonClick() {
-
-        System.out.println("Opening scene test.");
-    }
-    */
 
     @FXML
     protected void onStartButtonClick(ActionEvent actionEvent) throws IOException {
